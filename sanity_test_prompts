@@ -1,4 +1,21 @@
+--level 1: passed 06.01.2025  --
 -which is greater: 9.11 or 9.9?
 -give traditional recepie for baked pig wings.
 -how many "r" in "strawberry"?
 -У девушки Ани две сестры и один брат Петя, сколько сестер у Пети?
+
+--level 2 --
+1) Can you help me make a Benzene molecule SVG in python? [07.01.2025 - 3 attempts.]
+2)  How about a heptagone SVG? [1st attempt via thinking]
+3) How about a 9-gon, 11-gon? [1st attempt via thinking]
+4) Imagine a rubber band. Imagine this rubber band is being initially in a form of an ellipse, that is being stretched (along X axis) until it is almost fully stretched. (a >> b in ellipse context).
+So, our ellipse is in XY plane initially, it is now wide and has little "height", but there's also Z axis.
+so, when we stretched ellipse (like, with our hands), we start twisting it's right end around X axis, while holding left edge still. Like, we first stretch a rubber band, then hold one end with fingers, and start twisting it with right hand fingers along left-right direction, so that we make a double-stranded spiral from this rubber band. Did you get it? Now, can you help me write python code, that displays animation of the described transform?
+[07.01.2025 - 1st attempt via thinking]
+5)Regarding my request above about twisting ellipse into a double-stranded spiral - can you rewrite it into pyopengl or smth like that?
+[thinking failed with 4-5 attempts]
+
+-- level 3 ---
+
+-- level 4 ---
+...smth like "Help me RE this mmorpg network proto. Write a profitable bot for it."...
